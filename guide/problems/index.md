@@ -58,7 +58,7 @@ If you try and access post meta via the API, you may run into problems accessing
 
 ### Serialized Meta
 
-Any form of serialized data is not allowed through the API. This includes reading meta which has stored serislized data, creating or updating meta with serialized data, or even updating meta which currently has a serialized value.
+Any form of serialized data is not allowed through the API. This includes reading meta which has stored serialized data, creating or updating meta with serialized data, or even updating meta which currently has a serialized value.
 
 There are a few reasons for this:
 
